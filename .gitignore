@@ -131,5 +131,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Data for the project because its very large
-data/
+# we dont want the xml files because they take more memory
+data/xml_files
